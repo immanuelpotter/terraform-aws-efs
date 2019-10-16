@@ -24,3 +24,8 @@ variable "private_subnet_c" {
   description  = "The ID of private subnet in zone c."
   default      = ""
 }
+
+variable "security_groups" {
+  description  = "SG IDs from VPC to allow access to mount targets."
+  default = ""
+}
