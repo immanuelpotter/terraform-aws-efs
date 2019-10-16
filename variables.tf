@@ -27,5 +27,4 @@ variable "private_subnet_c" {
 
 variable "security_groups" {
   description  = "SG IDs from VPC to allow access to mount targets."
-  default = {}
-}
+  default = []
