@@ -11,17 +11,17 @@ variable "tags" {
 }
 
 variable "private_subnet_a" {
-  description  = "The ID of private subnet in zone a."
+  description  = "The ID of private subnet in zone a, if it exists."
   default      = ""
 }
 
 variable "private_subnet_b" {
-  description  = "The ID of private subnet in zone b."
+  description  = "The ID of private subnet in zone b, if it exists."
   default      = ""
 }
 
 variable "private_subnet_c" {
-  description  = "The ID of private subnet in zone c."
+  description  = "The ID of private subnet in zone c, if it exists."
   default      = ""
 }
 
