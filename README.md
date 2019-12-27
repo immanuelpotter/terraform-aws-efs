@@ -41,7 +41,7 @@ Authors
 
 Original module managed by [Smartbrood LLC](https://github.com/Smartbrood).
 
-Forked by [Immanuel Potter](https://githib.com/immanuelpotter)
+Forked by [Immanuel Potter](https://github.com/immanuelpotter)
 
 License
 -------
